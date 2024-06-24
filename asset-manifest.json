@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-template-for-git-pages/static/css/main.7acaea2f.css",
+    "main.js": "/react-template-for-git-pages/static/js/main.07d3183d.js",
+    "index.html": "/react-template-for-git-pages/index.html",
+    "main.7acaea2f.css.map": "/react-template-for-git-pages/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/react-template-for-git-pages/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
